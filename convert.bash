@@ -1,6 +1,6 @@
 #!/bin/bash
 
-efs_mountpoint='fs-9d04fe70.efs.ca-central-1.amazonaws.com'
+efs_mountpoint='fs-something.efs.ca-central-1.amazonaws.com'
 
 chmod u+w ssh-key
 terraform init
